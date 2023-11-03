@@ -1,4 +1,7 @@
-
+*{
+    margin: 0;
+    padding: 0;
+}
 
 body {
     background: linear-gradient(to left, rgb(243, 219, 219) 60%, rgb(4, 32, 4) 40%);
