@@ -1,0 +1,64 @@
+
+
+body {
+    background: linear-gradient(to left, rgb(243, 219, 219) 60%, rgb(4, 32, 4) 40%);
+    
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 15px;
+}
+
+.navbar li {
+    display: inline;
+    margin-right: 40px;
+}
+
+.navbar a {
+    color: rgb(87, 83, 83); 
+    text-decoration: none; 
+}
+
+.book-image {
+    max-width: 50%;
+    margin-left: -150px;
+    margin-top: 30px;
+}
+
+.book-info {
+    float: left;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+    margin-top: -620px;
+    margin-left: 300px;
+}
+
+.judul{
+    font-size: 47px;
+    font-weight: bold;
+    margin-bottom: -20px;
+}
+
+.penulis{
+    font-size: 25px;
+    font-family: tahoma;
+    margin-bottom: -5px;
+    color: rgb(95, 94, 94);
+}
+
+.rating {
+    font-size: 24px;
+    color: gold;
+    margin-left: -30px;
+    margin-bottom: -10px
+}
+
+.book-info p {
+    margin-top: 20px;
+    margin-left: -30px;
+    text-align: left;
+}
+
